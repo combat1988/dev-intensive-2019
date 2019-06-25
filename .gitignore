@@ -10,9 +10,6 @@ build/
 # Gradle files
 .gradle/
 
-# Signing files
-.signing/
-
 # User-specific configurations
 *.iml
 
@@ -38,3 +35,4 @@ google-services.json
 
 # Version control
 vcs.xml
+
